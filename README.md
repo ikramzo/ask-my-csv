@@ -29,7 +29,7 @@ A powerful and intuitive web application that lets you chat with your CSV data u
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/csv-chat-assistant.git
+   git clone https://github.com/ikramzo/ask-my-csv.git
    cd csv-chat-assistant
    ```
 
